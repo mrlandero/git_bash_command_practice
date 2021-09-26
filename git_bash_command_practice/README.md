@@ -7,7 +7,6 @@
 > "...to boldly go where no one has gone before." 
 
 ## Directory
-
-[Programs](code)
-[Data Files](data)
+[Programs](code)<br>
+[Data Files](data)<br>
 [References](references)
